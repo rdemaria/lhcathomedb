@@ -1,0 +1,1 @@
+scp boinc_peewee.py boinc_sqla.py plot_sent.py active_hosts.py sixtadm@boincai08.cern.ch:/share/boinc/project/sixtrack/pythondbscripts
